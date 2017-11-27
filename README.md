@@ -3,3 +3,9 @@ Our idea was to create an application using Neural Network that could be trained
 - All code is written in Octave.
 - Back Propagation Algorithm is used.
 - Presentation Link: https://goo.gl/FcTm2V
+
+
+# Contributors 
+* [Karan Guleri](https://www.github.com/KDSG)
+* [Ayush Aggarwal](https://www.github.com/ayushagg31)
+* Tarun Pratap
