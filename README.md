@@ -6,6 +6,7 @@ Our idea was to create an application using Neural Network that could be trained
 
 
 # Contributors 
-* [Karan Guleri](https://www.github.com/KDSG)
-* [Ayush Aggarwal](https://www.github.com/ayushagg31)
+* [Karan Guleri](https://github.com/KDSG)
+* [Ayush Aggarwal](https://github.com/ayushagg31)
+* [Shashank Jain](https://github.com/hunterrx22)
 * Tarun Pratap
